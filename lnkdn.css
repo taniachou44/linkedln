@@ -1,0 +1,508 @@
+*{
+    margin-top: 0px;
+    padding-bottom: 0px;
+    box-sizing: border-box;
+    
+}
+body{
+
+    margin-bottom:0px;
+    padding-bottom: 0px;
+    scroll-behavior: smooth;
+    background-color:lightgrey;
+    
+}
+nav{
+    top: 0px;
+    display: flex;
+    
+    box-shadow: 2px 2px 5px #ccc;
+    background-color:whitesmoke;
+  
+    
+    height:48px;
+    
+
+}
+.obj{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 5px;
+    position: absolute;
+    width: 100%px;
+    height: 50px;
+}
+.outline{
+    margin-left: 9.5px;
+    display: flex;
+    border:1px solid black;
+    height: 40px;
+    width: 380px;
+    margin-top:0px;
+    background-color:#E1FCFB;
+    border-radius: 5px;
+
+}
+.inline{
+    margin-left: 100px;
+}
+.img1{
+    margin-top:8px;
+    margin-left: 15px;
+}
+.img2{
+    border: none;
+    margin-top:2.1px;
+    margin-left: 10px;
+    background-color: #E1FCFB;
+    height: 33px;
+}
+.link{
+    margin-top: -3.6px;
+}
+.pa{
+
+    margin-left: 0px;
+    margin-top: 00px;
+}
+.yz{
+    border: 1px solid black;
+    width: 400px;
+    height: 45px;
+}
+.ma{
+    height: 45px;
+    margin-left: 122px;
+    margin-top: -45px;
+}
+.myclass{
+    border: 1px solid black;
+    height: 45px;
+    border: none;
+
+}
+
+.container5{
+    border: 1px solid black;
+    height: 50px;
+    width: 400px;
+    margin-left: 150px;
+    
+}
+.right{
+    margin-left: 802px;
+    margin-top: -78.3px;
+    display: flex;
+    position: absolute;
+}
+.img{
+    margin-top: 13px;
+}
+.top{
+    margin:15px;
+
+}
+.nill{
+    position: absolute;
+    top:63px;
+    left:17px;
+   
+}.nill1{
+    position: absolute;
+    top: 63px;
+    left: 78px;
+}
+.nill2{
+    position: absolute;
+    top: 63px;
+    left: 157px;
+}
+.nill3{
+    position: absolute;
+    top: 63px;
+    left: 205px;
+
+}
+.nill4{
+    position: absolute;
+    top: 63px;
+    left: 277px;
+}
+.none{
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+    font-size: smaller;
+}
+.profile{
+    border-left:1px double black;
+    box-shadow: #ccc;
+   
+    height: 45px;
+    position: absolute;
+    display: grid;
+    grid-template-columns: auto;
+    bottom: 3.7px;
+    left: 370px;
+}
+.id{
+    margin-left: 25px;
+    margin-top: 1.3px;
+    /* border: 1px solid black; */
+    border-radius: 50%;
+
+}
+.txt{
+    margin-top: -3.5px;
+    width: 155px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    position: absolute;
+    left: 80px;
+    text-decoration: none;
+    font-family: sans-serif;
+    word-spacing: 1px;
+    font-size: small;
+    color: black;
+    
+}
+.sidebar{
+    /* border-bottom: 1px solid black; */
+    border-radius: 15px;
+    width: 250px;
+    height: 760px;
+    margin-top: 30px;
+    margin-left: 150px;
+    display: grid;
+    grid-template-rows: auto;
+    grid-row-gap: 10px;
+    position: relative;
+    background-color: white;
+}
+.object7{
+    /* border-top: 1px solid black; */
+    /* border-bottom: 1px solid black; */
+    box-shadow: 2px 2px 5px #ccc;
+    height: 100px;
+    width: 250px;
+    position: absolute;
+    top: 210px;
+    display: flex;
+    flex-direction: column;
+    padding: 8px;
+}
+.none5{
+    margin-top: -12px;
+}
+.none1{
+    margin-top: 13px;
+}
+.class{
+    display:grid;
+    grid-template-columns: 2;
+    justify-content: end;
+    margin-top: -90px;
+}
+.class2{
+    margin-top: 15px;
+}
+.odd{
+    position: relative;
+    /* border-top: 1px solid black; */
+}
+.iot{
+    position:absolute;
+    bottom:-133px;
+    left: 3px;
+    font-size: normal;
+    color: blue;
+}
+.ove{
+    position: absolute;
+    top:335px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color:blue;
+}
+.iome{
+    position:absolute;
+    top: 260px;
+    left: px;
+}
+.lop{
+    position: absolute;
+    top: 283px;
+    left: -3px;
+}
+.pop2{
+    position: absolute;
+    margin-left:-39px;
+    top: 360px;
+    font-family: sans-serif;
+    font-size: normal;
+}
+
+.lop1{
+    position: absolute;
+    top: 288px;
+    left: 26px;
+}
+.lop2{
+    position: absolute;
+    top: 303px;
+    left:-3px;
+}
+.lop3{
+    position: absolute;
+    top: 307px;
+    left: 26px;
+}
+.non3{
+    position: absolute;
+    top: 139px;
+    left:-38px;
+    color: lightslategray;
+
+}
+.object9{
+    /* border-top: 1px solid black; */
+    /* border-bottom: 1px solid black; */
+    box-shadow: 2px 2px 5px #ccc;
+    height: 100px;
+    width: 250px;
+    position: absolute;
+    top: 320px;
+    padding: 8px;
+}
+.obj1{
+    position: absolute;
+
+   
+}
+.ob3{
+    margin-top:6px;
+}
+.ob2{
+    position: absolute;
+    top: 35px;
+    margin-left: 3px;
+}
+.obj2{
+    position: relative;
+}
+.obj4{
+    position: absolute;
+    left:-18.8px;
+    top:8px;
+}
+.ob5{
+    position: absolute;
+    left:32px;
+    bottom:-6px;
+}
+.header{
+    border-radius: 15px;
+    /* border-bottom: 1px solid black; */
+    height: 200px;
+    box-shadow: 2px 2px 5px #ccc;
+    
+}
+.content{
+    
+    height: 85px;
+    border-radius: 15px;
+    background:linen;
+    position: relative;
+}
+
+
+.pic{
+    /* border: 1px solid black; */
+    display: grid;
+    height: 90px;
+    width: 85px;
+    border-radius: 50%;
+    position: absolute;
+    left: 79px;
+    top: 30px;
+    background-image: url('https://www.pikpng.com/pngl/m/159-1591559_flat-faces-icons-circle-girl-flat-icon-png.png');
+    background-size: contain;
+}
+.container{
+    
+    display: flex;
+    opacity: 0.8;
+}
+.iot2{
+    position: absolute;
+    top: 25px;
+    left:20px;
+}
+.header1{
+    display: flex;
+    position: relative;
+}
+.jazz{
+    display: grid;
+    grid-template-columns: 150px 150px 150px 150px;
+    position: relative;
+    top: 86px;
+    left: 55px;
+    padding-left: 10px;
+}
+.jazz1{
+    position: absolute;
+    left:60px;
+    top: 15px;
+    font-family: sans-serif;
+    font-size: small;
+    color:black;
+}
+.jazz2{
+    position: absolute;
+    left:205px;
+    top: 15px;
+    font-family: sans-serif;
+    font-size: small;
+    color:black;
+}
+.jazz3{
+    position: absolute;
+    left: 355px;
+    top: 18px;
+    font-family: sans-serif;
+    font-size: small;
+    color:black;
+}
+.jazz4{
+    position: absolute;
+    left: 488px;
+    top: 20.3px;
+    font-family: sans-serif;
+    font-size: small;
+    color:black;
+}
+.iot3{
+    border: 1px solid black;
+    width:500px;
+    height: 40px;
+    border-radius: 30px;
+    position: absolute;
+    left: 85px;
+    top: 28px;
+    padding-left: 22px;
+}
+
+#lol{
+
+    position: absolute;
+    width: 250px;
+    text-align: center;
+    left: -79px;
+    top: 100px;
+    font-family: sans-serif;
+    font-size: smaller;
+}
+.main{
+    position: absolute;
+    top: 80px;
+    
+    width: 600px;
+    height: 1000px;
+    margin-left:443px;
+    border-radius: 15px;
+    display: grid;
+    grid-template-rows: 3;
+    grid-row-gap: 10px;
+
+}
+.header1{
+    /* border: 1px solid black; */
+    height: 145px;
+    border-radius: 15px;
+   
+
+}
+.content2{
+    /* border: 1px solid black; */
+    height: 520px;
+    margin-top:-290px;
+    border-radius: 5px;
+   
+}
+.bottom2{
+    border: 1px solid black;
+    height: 410px;
+    margin-bottom: 15px;
+
+}
+.section{
+    
+    width: 250px;
+    height: 800px;
+    margin-top:30px;
+    margin-left:700px;
+    display: grid;
+    grid-row-gap: 20px;
+
+}
+.header7{
+    /* border:1px solid black; */
+    border-radius: 10px;
+    height: 250px;
+    width: 250px;
+    position: relative;
+}
+.content4{
+    border: 1px solid transparent ;
+    padding-right:10px;
+    border-radius: 10px;
+    height: 180px;
+    width: 250px;
+}
+.bottom3{
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    height: 330px;
+    width: 250px;
+}
+.foot{
+    border: 1px solid black;
+    height: 50px;
+    width: 100px;
+}
+.co1{
+    position: relative;
+}
+.dbms{
+    position: absolute;
+    margin-top:-50px;
+    margin-left: 550px;
+}
+.con11{
+    margin-top: 5px;
+    margin-left:0px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.con22{
+    font-family: sans-serif;
+    font-size: 8px;
+    position:absolute;
+    left:70px;
+    margin-top:-48px;
+}
+.sas{
+    background-image: url('https://i.pinimg.com/originals/d7/dd/53/d7dd53f131daa04ea6ac7b1bd6e362c5.png');
+    width: 610px;
+    height: 400px;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.sas2{
+    display: flex;
+    justify-content: space-between;
+}
